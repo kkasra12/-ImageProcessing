@@ -1,0 +1,3 @@
+# Contents
+- `01-grayScale` converts an image to gray scales using two methods and shows differences
+- `02-sANDp_noise` adds salt and pepper noise and removes it using median filter and performs some experiments...
